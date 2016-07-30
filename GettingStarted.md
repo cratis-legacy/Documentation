@@ -1,4 +1,3 @@
-
 # Structure
 
 ## General
@@ -13,8 +12,7 @@
 
 ## JavaScript
 
-## C#
-
+## CSharp
 
 # Cloning and getting started
 
