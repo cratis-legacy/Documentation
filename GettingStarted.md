@@ -39,6 +39,8 @@ this. It performs the following:
 
 ```terminal
 git submodule update --init --recursive
+cd Modules/JavaScript
+git checkout master
 ```
 
 ## JSPM
